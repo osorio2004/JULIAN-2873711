@@ -1,0 +1,16 @@
+Algoritmo sin_titulo
+	//. Hacer un algoritmo que lea el alto y el ancho de un rectángulo y muestre su área y su perímetro.
+	//definir
+	Definir b, h, area, peri Como Real
+	//entrada
+	Escribir "ingrese la base"
+	leer b
+	Escribir "ingrese la altura"
+	Leer h
+	
+	area <- b*h
+	perimetro <- (a*2)+(h*2)
+	//proceso
+	Escribir "el areda de un rectangulo es " , area " el perimetro es " ,peri
+	//salida
+FinAlgoritmo
